@@ -1,0 +1,118 @@
+body {
+  font-family: sans-serif;
+  background-image: url("../de-vloot/bg.png");
+  background-size: 9000px 445px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+a:hover {
+  color: blue;
+}
+#banner {
+  position: absolute;
+  top: 0px;
+  left: 390px;
+  margin: 0px;
+}
+
+.links {
+    margin-left: 0px;
+}
+.h1 {
+  position: absolute;
+  top: -10px;
+  left: 400px;
+  font-size: 25px;
+}
+
+.h3 {
+  position: absolute;
+  top: -20px;
+  left: 400px;
+  font-size: 25px;
+}
+
+#midden1 {
+    font-size: 13px;
+    background-color: white;
+    width: 560px;
+    margin-left: 382px;
+    margin-top: 160px;
+    padding: 10px;
+}
+
+#bovenh {
+   position: relative;
+   top: 130px;
+   left: 405px;
+   width: 450px;
+}
+
+ul {
+    font-size: 11px;
+    color: white;
+    position: relative;
+    top: 20px;
+    left: -50px;
+    word-spacing: 13px;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: lightblue;
+}
+
+.imgb {
+    float: left;
+    margin: 15px;
+    margin-left: 0px;
+}
+.imgb3 {
+    float: right;
+    margin: 15px;
+}
+#imgb2 {
+    float: left;
+    margin: 15px;
+    margin-top: 20px;
+
+}
+
+#imgm {
+    float: right;
+    margin: 15px;
+}
+
+.imgo {
+    float: left;
+    margin: 15px;
+    margin-left: 0px;
+    margin-bottom: 90px;
+}
+
+#imgo2 {
+    float: right;
+    margin: 15px;
+}
+
+#imgo3 {
+    float: left;
+    margin: 15px;
+    margin-left: 0px;
+}
+
+.onderh2 {
+  position: absolute;
+  top: 20px;
+  left: 400px;
+  font-size: 12px;
+}
+
+li {
+    display: inline;
+}
